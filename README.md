@@ -4,17 +4,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 # Table of contents
 
--   Overview
-    -   The challenge
-    -   Screenshot
-    -   Links
--   My process
-    -   Built with
-    -   What I learned
-    -   Continued development
-    -   Useful resources
--   Author
--   Acknowledgments
+-   [Overview](#overview)
+    -   [The Challenge](#the-challenge)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+-   [Author](#author)
 
 # Overview
 
@@ -46,6 +42,7 @@ Users should be able to:
 
 ## Author
 
--   Website -  [Add your name here](https://www.your-site.com/)
--   Frontend Mentor -  [@yourusername](https://www.frontendmentor.io/profile/hafiz-abdul-munnan)
--   Twitter -  [@yourusername](https://www.twitter.com/yourusername)
+-   LinkedIn -  [@hafiz-abdul-munnan](https://www.linkedin.com/in/hafiz-abdul-munnan/)
+-   Peerlist -  [@abdul_munnan](https://peerlist.io/abdul_munnan)
+-   Frontend Mentor -  [@hafiz-abdul-munnan](https://www.frontendmentor.io/profile/hafiz-abdul-munnan)
+-   Twitter -  [@hafizabdulmunna](https://twitter.com/hafizabdulmunna)
